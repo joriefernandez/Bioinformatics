@@ -1,4 +1,4 @@
-# Bioinformatics
+# Data Analysis in Bioinformatics
 
 #### Statistical and predictive analysis using R. 
 
